@@ -71,5 +71,6 @@ class Song
     # other options same result
     # @@all = []
     # @@all.clear
+    #though you could use ALL = [] to pass the test, this shouldnt be used because it is a changed constant.
    end
 end
